@@ -19,7 +19,7 @@ Projeto 3
 
 <p align="center">
 <img src="https://i.imgur.com/ggq9dRp.png" alt="Pensafy" border="0">
-  Game by <a>Kauã Renne</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">Guilherme Gabriel</a> <a href="http://pix4free.org/">Nicollas Mota</a> <a href="http://pix4free.org/">Fátima Gomes</a>
+  Game by <a href="https://www.linkedin.com/in/ikauarenner/">Kauã Renne</a> <a rel="license" href="https://www.linkedin.com/in/guilherme-gabriel-a2226b307/">Guilherme Gabriel</a> <a href="https://www.linkedin.com/in/nicollas-mota-8030b2374/">Nicollas Mota</a> <a href="https://www.linkedin.com/in/f%C3%A1tima-gomes-19950338a/">Fátima Gomes</a>
 </p>
 
 
