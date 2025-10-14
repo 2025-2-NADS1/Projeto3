@@ -11,11 +11,11 @@ Projeto 3
 Pensafy
 
 ## Nome do Grupo
-
+Project DONDA
 
 ## Integrantes: <a href="https://www.linkedin.com/in/ikauarenner/">Kauã Renne</a>, <a href="https://www.linkedin.com/in/guilherme-gabriel-a2226b307/">Guilherme Gabriel</a>, <a href="https://www.linkedin.com/in/nicollas-mota-8030b2374/">Nicollas Mota</a>, <a href="https://www.linkedin.com/in/f%C3%A1tima-gomes-19950338a/">Fátima Gomes</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: Victor Rossetti, Ronaldo Savino, Lucy Tabuti , Aimar Martins, Renata Muniz, Ronaldo Araujo.
 
 ## Descrição
 
