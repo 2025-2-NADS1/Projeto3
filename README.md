@@ -7,11 +7,9 @@ Projeto 3
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
-Pensafy
+# Pensafy
 
-## Nome do Grupo
-Project DONDA
+## Project DONDA
 
 ## Integrantes: <a href="https://www.linkedin.com/in/ikauarenner/">Kauã Renne</a>, <a href="https://www.linkedin.com/in/guilherme-gabriel-a2226b307/">Guilherme Gabriel</a>, <a href="https://www.linkedin.com/in/nicollas-mota-8030b2374/">Nicollas Mota</a>, <a href="https://www.linkedin.com/in/f%C3%A1tima-gomes-19950338a/">Fátima Gomes</a>
 
