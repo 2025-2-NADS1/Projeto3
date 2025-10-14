@@ -76,4 +76,4 @@ Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licen�
 Aqui estão as referências usadas no projeto.
 
 1. <a href="https://kahoot.it/"> Kahoot</a>.
-2. <a href= "https://duolingo.com/> Duolingo </a>.
+2. <a href="https://pt.duolingo.com/"> Duolinguo</a>.
