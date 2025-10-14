@@ -23,7 +23,7 @@ Projeto 3
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Estamos com um projeto para criar um hub de jogos, principalmente focado em perguntas e respostas com ranqueamento com certos períodos. Visando uma competitividade entre os jogadores.
 <br><br>
 Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
 <br><br>
