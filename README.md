@@ -1,10 +1,5 @@
 # Projeto3
 Projeto 3
-```sh
-Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
-
-Vide tutoriais do PI.
-```
 
 # FECAP - Fundação de Comércio Álvares Penteado
 
@@ -16,7 +11,7 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/ikauarenner/">Kauã Renne</a>, <a href="https://www.linkedin.com/in/guilherme-gabriel-a2226b307/">Guilherme Gabriel</a>, <a href="https://www.linkedin.com/in/nicollas-mota-8030b2374/">Nicollas Mota</a>, <a href="https://www.linkedin.com/in/f%C3%A1tima-gomes-19950338a/">Fátima Gomes</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
