@@ -46,3 +46,5 @@ Aqui estão as referências usadas no projeto.
 
 1. <a href="https://kahoot.it/"> Kahoot</a>.
 2. <a href="https://pt.duolingo.com/"> Duolinguo</a>.
+3. <a href="https://term.ooo/"> Termo</a>.
+
