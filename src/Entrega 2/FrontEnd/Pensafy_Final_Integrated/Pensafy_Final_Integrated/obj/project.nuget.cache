@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJkvsJCSWGVca6LvAwcg1+wkCOLtWGCE1FgJGWIbhUCA831Rtz6OGUVi35OVZoZ4F9oEpyu3SWDl/2jDB2ZBvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\25028242\\Downloads\\Pensafy_Final_Integrated\\Pensafy_Final_Integrated\\Pensafy_Final_Integrated.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\25028242\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.119\\stub.system.data.sqlite.core.netframework.1.0.119.nupkg.sha512",
+    "C:\\Users\\25028242\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\25028242\Downloads\Pensafy_Final_Integrated\Pensafy_Final_Integrated\obj\Debug\net48\Pensafy_Final_Integrated.csproj.AssemblyReference.cache
+C:\Users\25028242\Downloads\Pensafy_Final_Integrated\Pensafy_Final_Integrated\obj\Debug\net48\Pensafy_Final_Integrated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25028242\Downloads\Pensafy_Final_Integrated\Pensafy_Final_Integrated\obj\Debug\net48\Pensafy_Final_Integrated.AssemblyInfoInputs.cache
+C:\Users\25028242\Downloads\Pensafy_Final_Integrated\Pensafy_Final_Integrated\obj\Debug\net48\Pensafy_Final_Integrated.AssemblyInfo.cs
+C:\Users\25028242\Downloads\Pensafy_Final_Integrated\Pensafy_Final_Integrated\obj\Debug\net48\Pensafy_Final_Integrated.csproj.CoreCompileInputs.cache
+C:\Users\25028242\Downloads\Pensafy_Final_Integrated\Pensafy_Final_Integrated\bin\Debug\net48\PENSAFY.db
+C:\Users\25028242\Downloads\Pensafy_Final_Integrated\Pensafy_Final_Integrated\bin\Debug\net48\Pensafy_Final_Integrated.exe.config
+C:\Users\25028242\Downloads\Pensafy_Final_Integrated\Pensafy_Final_Integrated\bin\Debug\net48\Pensafy_Final_Integrated.exe
+C:\Users\25028242\Downloads\Pensafy_Final_Integrated\Pensafy_Final_Integrated\bin\Debug\net48\Pensafy_Final_Integrated.pdb
+C:\Users\25028242\Downloads\Pensafy_Final_Integrated\Pensafy_Final_Integrated\bin\Debug\net48\System.Data.SQLite.dll
+C:\Users\25028242\Downloads\Pensafy_Final_Integrated\Pensafy_Final_Integrated\obj\Debug\net48\Pensafy_Final_Integrated.csproj.CopyComplete
+C:\Users\25028242\Downloads\Pensafy_Final_Integrated\Pensafy_Final_Integrated\obj\Debug\net48\Pensafy_Final_Integrated.exe
+C:\Users\25028242\Downloads\Pensafy_Final_Integrated\Pensafy_Final_Integrated\obj\Debug\net48\Pensafy_Final_Integrated.pdb
